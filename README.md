@@ -2,4 +2,4 @@
 
 #### I use to Open Weather Map API to make calls to a restful api to return the current weather data and I used to modern javascript fetch API.
 
-https://havadurumu-js.netlify.app/
+To review my project live https://havadurumu-js.netlify.app/
